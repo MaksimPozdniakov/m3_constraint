@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Home Work 3</string>
+    <string name="executor">Исполнитель</string>
+    <string name="name_of_the_composition">Наименование композиции</string>
+</resources>
